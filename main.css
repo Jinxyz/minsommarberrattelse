@@ -1,0 +1,46 @@
+body {
+    font-family: 'Alata', sans-serif;
+}
+
+.titlediv {
+    position: relative;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.titletext {
+    font-size: 40px;
+    font-weight: 700;
+    z-index: 0;
+    color: cyan;
+}
+
+.overlay{
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index: -1;
+}
+
+.solbild {
+    width: 10%;
+    margin: 0;
+    padding: 0;
+    padding-left: 40%;
+    padding-top: 2%;
+}
+
+.mainstuff {
+    padding-top: 3%;
+    text-align: center;
+}
+
+.maintext {
+    font-size: 15px;
+    line-height: 1.3;
+}
+
+.beach {
+    width: 30%;
+    top: 0;
+}
